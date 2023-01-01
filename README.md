@@ -1,6 +1,6 @@
 # Usage
 
-# sha1_cracker <wordlist.txt> <sha1_hash>
+sha1_cracker <wordlist.txt> <sha1_hash>
 
 # E.g
 
